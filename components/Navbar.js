@@ -22,7 +22,7 @@ export default function NavBar() {
                     Blog
                 </span>
             </Link>
-            <a href="https://drive.google.com/file/d/1co1kKJcJeSdXAfNMzW4-JsUQoxNXYvcP/view?usp=sharing" target="_blank" className=" pl-3 md:pl-6 cursor-pointer hover:underline">
+            <a href="https://drive.google.com/file/d/19NU02qXh8VOWNsBYDqGYhyL53QsvnM9p/view?usp=sharing" target="_blank" className=" pl-3 md:pl-6 cursor-pointer hover:underline">
                 CV
             </a>
         </div>
