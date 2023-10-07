@@ -41,7 +41,7 @@ const Home: NextPage = () => {
               <p className="font-mono pt-4 pb-12 xl:w-3/4 text-lg">
                 Hi I'm Erin Murphy, a master's student at Cornell Tech studying Electrical Computer Engineering!
                 Previously, I was a student-athlete on 
-                <b><a href="https://seminoles.com/sports/beach-volleyball/" target="_blank">FSU’s D1 NCAA Beach Volleyball</a></b> team. 
+                <b><a href="https://seminoles.com/sports/beach-volleyball/" target="_blank"> FSU’s NCAA Beach Volleyball</a></b> team. 
                 At FSU, I also conducted research about computer vision and synthetic data under Dr. Jonathan Adams within a lab co-founded by myself and some other undergraduates, the 
                 <b><a href="https://mllab.cci.fsu.edu/" target="_blank"> MLab</a></b>!
                 <br/><br/>Feel free to reach out with any questions 😊
