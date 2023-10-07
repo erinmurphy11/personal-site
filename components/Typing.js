@@ -7,7 +7,7 @@ export default function Typing() {
 
   useEffect(() => {
     const typed = new Typed(el.current, {
-      strings: ["Software Engineer.", "Student.", "ML Researcher.", "D1 Athlete at FSU."], // Strings to display
+      strings: ["Software Engineer.", "Grad Student.", "Former D1 Athlete."], // Strings to display
       // Speed settings, try diffrent values untill you get good results
       startDelay: 300,
       typeSpeed: 100,
