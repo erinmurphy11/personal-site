@@ -1,3 +1,3 @@
 # Personal Website
 
-A work in progress
+Personal site using Node.js  (in progress)
