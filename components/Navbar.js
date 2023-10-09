@@ -17,7 +17,7 @@ export default function NavBar() {
                     About
                 </span>
             </Link>*/}
-            <a href="/Erin_Murphy_Resume.pdf" target="_blank" className="pl-3 md:pl-6 cursor-pointer hover:underline">
+            <a href="/Erin_Murphy_Resume_2023.pdf" target="_blank" className="pl-3 md:pl-6 cursor-pointer hover:underline">
                 Resume
             </a>
         </div>
